@@ -1,4 +1,4 @@
-# 🧠 GPTMini – A Mini GPT Clone from Scratch
+# 🧠 GPTMini: A Mini GPT Clone from Scratch
 
 Welcome to **GPTMini**, a transformer-based language model built **entirely from scratch using PyTorch**!  
 This project is a minimal, educational implementation of GPT-style models that helped me understand the internals of transformer architectures deeply.
