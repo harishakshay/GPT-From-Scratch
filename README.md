@@ -26,9 +26,7 @@ Text → Tokenizer → Input Embedding →
 → Linear layer (vocab projection) →
 → Generated Output
 
-yaml
-Copy
-Edit
+
 
 Each `TransformerBlock` includes:
 - Self-Attention → Residual → LayerNorm  
@@ -46,9 +44,6 @@ Epoch 201/300, Loss: 0.3172
 Epoch 251/300, Loss: 0.3834
 Epoch 300/300, Loss: 0.2838
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -56,9 +51,7 @@ Edit
 
 HHHHHa! and then the story continues with randomness based on data...
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -74,39 +67,26 @@ pip install torch numpy
 
 # Run the training
 python new.py
-🚀 What's Next?
-✅ Add multi-head attention
-
-✅ Add masked attention for autoregressive training
-
-🚧 Improve tokenizer
-
-🚧 Add text sampling UI
-
-🤟 Credits
-Made with 💻 + 🧠 + 🔥 by Harish Akshay H
-
-🧠 Learnings
-This project was built to:
-
-Understand how GPT models are structured
-
-Get hands-on with training loops, loss, optimizer
-
-Explore transformers without libraries like HuggingFace
-
-📄 License
-MIT License — use it freely to learn and build more!
-
-yaml
-Copy
-Edit
 
 ---
 
-Machi, just save this as `README.md` in your repo folder, then run:
+## 🚀 What's Next?
 
-```bash
-git add README.md
-git commit -m "Add project README"
-git push
+✅ Add multi-head attention
+✅ Add masked attention for autoregressive training
+🚧 Improve tokenizer
+🚧 Add text sampling UI
+
+---
+
+## 🧠 Learnings
+
+This project was built to:
+1. Understand how GPT models are structured
+2. Get hands-on with training loops, loss, optimizer
+3. Explore transformers without libraries like HuggingFace
+
+📄 License
+MIT License - use it freely to learn and build more!
+
+## Enigneered by Harish Akshay H
