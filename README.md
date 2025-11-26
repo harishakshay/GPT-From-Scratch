@@ -68,25 +68,5 @@ pip install torch numpy
 # Run the training
 python new.py
 
----
 
-## 🚀 What's Next?
-
-✅ Add multi-head attention
-✅ Add masked attention for autoregressive training
-🚧 Improve tokenizer
-🚧 Add text sampling UI
-
----
-
-## 🧠 Learnings
-
-This project was built to:
-1. Understand how GPT models are structured
-2. Get hands-on with training loops, loss, optimizer
-3. Explore transformers without libraries like HuggingFace
-
-📄 License
-MIT License - use it freely to learn and build more!
-
-## Enigneered by Harish Akshay H
+                                                                                              Engineered by Harish Akshay H
